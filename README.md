@@ -1,4 +1,4 @@
-Hi, I'm Fionn. I enjoy maths, data science and coding. I am currently studying for an MSc in Data and Compuational Science at University College Dublin.
+Hi, I'm Fionn. I enjoy chess, running, maths and coding.
 
 Feel free to visit my website at [flbrack.com](https://flbrack.com)
 
